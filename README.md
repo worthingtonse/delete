@@ -2,6 +2,12 @@
 ![Purse](d.png)
 This is an online bingo game. Here is the data diagram:
 
+## Team
+Name | Email | Phone
+--- | --- | ---
+John | J@example.com | (887) 657-2323
+Lem | L@example.com | (337) 337-2323
+
 ## APIs
 [Join Game](README.md#join-game )
 
